@@ -62,6 +62,7 @@ nav ul a img {
   height: 30px;
   line-height: 30px;
   width: 94px;
+  border-radius: 50px;
 }
 .nav-2,
 .nav-2 i {
